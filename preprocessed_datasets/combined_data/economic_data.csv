@@ -1,4 +1,4 @@
-,yoy_inflation,interest_rate,fuel_price,consumer_confidence,unemployment_rate,gdp_growth
+date,yoy_inflation,interest_rate,fuel_price,consumer_confidence,unemployment_rate,gdp_growth
 2002-01-01,,1.73,0.634,,5.0,
 2002-02-01,,1.74,0.631,,5.0,0.3764184624308152
 2002-03-01,,1.73,0.764,,5.0,0.3750068673467253
